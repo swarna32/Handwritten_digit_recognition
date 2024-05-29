@@ -1,6 +1,5 @@
 # Handwritten Digit Recognition
 
-![Project Banner](images/banner.jpg)
 
 ## Overview
 This project implements a system for recognizing handwritten digits using image processing techniques with OpenCV. The system compares a test image with candidate images to find the closest matching digit based on normalized cross-correlation.
